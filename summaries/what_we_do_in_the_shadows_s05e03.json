@@ -1,0 +1,112 @@
+{
+  "title": "What We Do in the Shadows S05E03 - Pride Parade",
+  "source": "https://en.wikipedia.org/w/index.php?title=Pride_Parade_(What_We_Do_in_the_Shadows)&oldid=1187897532#Plot",
+  "summary": "Sean announces his intent to run as a comptroller in Staten Island. As he is tracking poorly with the gay demographic, Sean decides to host a pride parade. He asks the vampires for help, with Laszlo promising to help.\n\nGuillermo confides to Laszlo that his bat wings have started to appear in his back. When Colin Robinson talks about some vampiric traits, Laszlo and Nandor question his claims. They decide to test the myths, such as vampires counting rice, an increased jump on their third flight, and flying to outer space. Nadja discovers that Nadja's Ghost laments remaining a virgin, as her spirit was captured before she was turned into a vampire. To make up for accidentally breaking her legs, Nadja accepts in body swapping with her so she can finally have sex. Nadja's Ghost goes to a bar in an attempt to speed date, but is unsuccessful in finding a person.\n\nGuillermo is still resistant to light exposure, surprising Laszlo. Laszlo uses Guillermo's sweat in his skin, which surprisingly allows him to go outside during the day. Nadja's Ghost refuses to leave her body, so Colin Robinson suggests inserting himself into Nadja's body to reclaim it, which leads to a fight during the parade, but they eventually start singing \"It's Raining Men\", which is well received by the audience. During this, Nandor tests flying to outer space, eventually reaching it. However, he begins falling back to Earth, crashing into the parade as a fireball. Despite that, the parade proves to be a success. Later, Guillermo and Nandor stumble into a room, in which Nadja (still inside the doll) and Laszlo have sex with Nadja's Ghost and Colin Robinson.",
+  "questions": [
+    {
+      "question": "What position is Sean running for in Staten Island?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Sean intends to run as a comptroller."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "He intends to run as a comptroller."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Sean intends to run as a comptroller."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "Sean intends to run as a comptroller."
+        }
+      ]
+    },
+    {
+      "question": "What is appearing on Guillermo's back?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Guillermo's bat wings have started to appear on his back."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "Bat wings have started to appear."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Guillermo's bat wings have started to appear on his back."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "Guillermo's bat wings have started to appear on his back."
+        }
+      ]
+    },
+    {
+      "question": "How does Laszlo go outside?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Laszlo uses Guillermo's sweat mixed into his skin."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "He uses sweat mixed into his skin."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Laszlo uses Guillermo's sweat mixed into his skin."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "Laszlo uses Guillermo's sweat mixed into his skin."
+        }
+      ]
+    },
+    {
+      "question": "How does Nandor arrive at the Parade?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Nandor arrives in a fireball after returning from outer space."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "He arrives in a fireball after returning from outer space."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Nandor arrives in a fireball after returning from outer space."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": null
+        }
+      ]
+    },
+    {
+      "question": "Do both the parade and Nadja succeed at their tasks?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Yes."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "Yes."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Yes."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "Yes."
+        }
+      ]
+    }
+  ]
+}

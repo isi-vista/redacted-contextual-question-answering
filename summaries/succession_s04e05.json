@@ -1,0 +1,112 @@
+{
+  "title": "Succession S04E05 - Kill List",
+  "source": "https://en.wikipedia.org/w/index.php?title=Kill_List_(Succession)&oldid=1174834334#Plot",
+  "summary": "Kendall arrives at Waystar for his first day as co-CEO with Roman. The company learns GoJo wants Waystar's entire executive team to attend their annual corporate retreat in Norway to assess their \"cultural fit\", which the old guard takes as a sign that Matsson is indeed interested in going through with the acquisition; however, the siblings see it as an affront given the recent death of their father. The Roys' price minimum is $144 per share.\n\nIn Norway, however, Matsson surprises Kendall and Roman with an offer of $187 per share for Waystar's whole operation—including ATN, which was not part of the original terms. Kendall and Roman are uncomfortable selling their father's prized possession while the senior team is eager to push the sale through for the increased price. Shiv also informs her brothers that ATN is colluding with Jeryd Mencken's presidential campaign; she is content to give ATN up due to the network's right-wing politics and the potential scandal that would arise if news of the collusion was leaked.\n\nLater in the day, the two sides sit down together over a meal. Tom and Greg attempt to gain favor with the GoJo team, while the other Waystar executives - particularly Hugo - take antagonistic approaches to their counterparts. The siblings attempt to renegotiate the terms of the deal with Matsson so they can keep ATN, arguing that he fundamentally misunderstands its value, but Matsson refuses to budge. Roman eventually agrees to pass on his offer to the board, but that night, Kendall tells Roman he wants to torpedo the entire deal so the two of them can continue running Waystar. Roman is initially apprehensive defying his father's dying wish, but eventually agrees; neither of them inform Shiv. They agree that Matsson must be manipulated into backing out of the deal himself since either of them calling it off would violate their fiduciary duty to shareholders and consequently get them fired by the board. Kendall later tasks Greg with leaking to the press that Waystar and GoJo's teams are not getting along, hoping to place pressure on Matsson to back out of an acquisition.\n\nShiv, meanwhile, meets privately with Matsson, who reveals that he was romantically involved with Ebba, his head of PR, but that after the relationship soured, he repeatedly sent her half a liter of his own frozen blood. Shiv, both disturbed and amused, advises him on how to avoid a public scandal and recommends him to Gerri. Matsson tells Shiv he enjoys her company and that she reminds him of Logan.\n\nThe next morning, Kendall and Roman ride a cable car to meet Matsson atop a mountain; Roman is unsettled when Connor, who is planning Logan's funeral, sends him an image of Logan's corpse. On the mountain, Matsson, who has deduced the brothers' attempts to botch the deal, confronts them, calling them incompetent compared to their father and threatening to bypass them by going directly to Waystar's senior brass to see the deal through. Roman snaps and berates Matsson for summoning them to the retreat mere days after Logan's death, and openly calls off the deal. Matsson, however, is amused, claiming Roman has played into his hands.\n\nOn the return flight, the company learns Matsson has made a new offer of $192 per share; Matsson delivers the offer through Frank and refuses to speak directly with Roman and Kendall. The senior executives are elated and immediately pass the offer on to the board. They applaud Kendall and Roman, unaware they were actually trying to ruin the deal. However, they learn that Matsson plans to retain most of his own executive team rather than Waystar's, with only Tom, Gerri, and Karolina getting to keep their jobs. Matsson calls Shiv and asks her to send him a photo of her brothers' dismayed faces. Shiv then tasks Tom with firing Cyd for conspiring with Mencken's campaign and invites him to dinner upon their return home.",
+  "questions": [
+    {
+      "question": "What two values per share does Matsson offer to buy Waystar at?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Matsson offers to buy Waystar at $187 and $192 per share."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "The offers are $187 and $192 per share."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Matsson offers to buy Waystar at $187 and $192 per share."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "Matsson offers to buy Waystar at $187 and $192 per share."
+        }
+      ]
+    },
+    {
+      "question": "Who are the Co-CEOs of Waystar?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Kendall and Roman are the Co-CEOs of Waystar."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Kendall and Roman are the Co-CEOs of Waystar."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "Kendall and Roman are the Co-CEOs of Waystar."
+        }
+      ]
+    },
+    {
+      "question": "Where does the corporate retreat take place?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "The Waystar corporate retreat takes place in Norway."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "The Waystar corporate retreat takes place in Norway."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "The Waystar corporate retreat takes place in Norway."
+        }
+      ]
+    },
+    {
+      "question": "What collusion occurred with ATN?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "ATN colluded with Jeryd Mencken's presidential campaign, risking a scandal if news leaked."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "A presidential campaign was coordinated with, risking a scandal if news leaked."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "ATN colluded with Jeryd Mencken's presidential campaign, risking a scandal if news leaked."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "ATN colluded with Jeryd Mencken's presidential campaign, risking a scandal if news leaked."
+        }
+      ]
+    },
+    {
+      "question": "How many members of the Waystar executive team will keep their job under the proposed merger?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Three Waystar executives, Tom, Gerri, and Karolina, will keep their jobs."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "Three members of the executive team will keep their jobs."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Three members of the executive team will keep their jobs."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "Three Waystar executives, Tom, Gerri, and Karolina, will keep their jobs."
+        }
+      ]
+    }
+  ]
+}

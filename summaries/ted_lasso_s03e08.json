@@ -1,0 +1,112 @@
+{
+  "title": "Ted Lasso S03E08 - We'll Never Have Paris",
+  "source": "https://en.wikipedia.org/w/index.php?title=We%27ll_Never_Have_Paris_(Ted_Lasso)&oldid=1159475828#Plot",
+  "summary": "AFC Richmond experiences a winning streak. Ted, however, is anxious, as Dr. Jacob is taking Michelle on a surprise trip to Paris, leaving Henry with Ted.\n\nKeeley is horrified to discover that a sexually explicit video of her has been leaked to the Internet. Isaac orders the team to delete all sexually explicit images from their phones to prevent future leaks. When Colin leaves the locker room, Isaac follows him and takes his phone to delete what he was looking at. Surprised at what he sees, Isaac looks back at Colin, gives a slight nod, before silently handing him back his phone and leaving.\n\nTed fears that Dr. Jacob will propose to Michelle in Paris, although his friends tell him not to fret about something that hasn't happened yet. Ted asks Rebecca to hire a private investigator to follow Jacob and Michelle in Paris.\n\nMeanwhile, after their date, Nate and Jade sleep together, but she is hesitant to label their relationship. Nate seeks advice from his fellow West Ham staff members, but they are no help. Later, however, Jade describes Nate as her boyfriend.\n\nJack has her lawyers draft a formal-sounding statement of apology for Keeley to \"minimize the damage\" to her public image from the leak. Not wanting to apologize for something that wasn't her fault, Keeley refuses to release it. Jack tells Keeley she should not have made the video in the first place, implying that she values her own reputation above Keeley's welfare. When Keeley shows no regrets, Jack ends their relationship. The next day, Keeley is visited by Jamie, who was the original recipient of Keeley's video when they were dating. Jamie apologizes for having forgotten to delete the email with the video, and the two share a hug.\n\nHenry asks to watch a soccer game, so Ted and Beard reluctantly take him to a West Ham game. Nate sees them in the stands, and nervously turns his back. Rupert tells him that he will not allow Ted into the stadium in the future; Nate considers telling Rupert that he didn't mind Ted being there, but instead thanks him. After the game, Rebecca calls Ted to tell him that he shouldn't care if Michelle gets engaged. Meanwhile, Henry hears a busker singing \"Hey Jude\", and Beard explains that the song was written to comfort a boy whose parents were divorcing. When Michelle and Jacob return from Paris, and Henry leaves with them, Ted notes that Michelle is not wearing a ring.",
+  "questions": [
+    {
+      "question": "Is Ted worried that Michelle will be proposed to in Paris?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Yes, Ted is worried that Dr. Jacob will propose to Michelle in Paris."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "Yes."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Yes, he is worried that Dr. Jacob will propose to Michelle in Paris."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "Yes, Ted is worried that Dr. Jacob will propose to Michelle in Paris."
+        }
+      ]
+    },
+    {
+      "question": "Who travels to Paris?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Dr. Jacob and Michelle travel to Paris on a surprise trip."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Dr. Jacob and Michelle travel to Paris on a surprise trip."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "Dr. Jacob and Michelle travel to Paris on a surprise trip."
+        }
+      ]
+    },
+    {
+      "question": "What game is played where West Ham is a team?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "West Ham plays in a soccer game."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "West Ham plays in a soccer game."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "West Ham plays in a soccer game."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "West Ham plays in a soccer game."
+        }
+      ]
+    },
+    {
+      "question": "What was the song \"Hey Jude\" written for?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Beard explains that \"Hey Jude\" is written to comfort a boy whose parents are divorcing."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "\"Hey Jude\" is written to comfort a boy whose parents are divorcing."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Beard explains that \"Hey Jude\" is written to comfort a boy whose parents are divorcing."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "Beard explains that \"Hey Jude\" is written to comfort a boy whose parents are divorcing."
+        }
+      ]
+    },
+    {
+      "question": "Whose relationship ends during this episode?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Jack and Keeley end their relationship."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Jack and Keeley end their relationship."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "Jack and Keeley end their relationship."
+        }
+      ]
+    }
+  ]
+}

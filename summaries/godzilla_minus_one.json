@@ -1,0 +1,112 @@
+{
+  "title": "Godzilla Minus One",
+  "source": "https://en.wikipedia.org/w/index.php?title=Godzilla_Minus_One&oldid=1190089583#Plot",
+  "summary": "In 1945, near the end of World War II, kamikaze pilot Kōichi Shikishima feigns technical issues with his plane and lands on Odo Island. Lead mechanic Tachibana implies that Shikishima fled from his duty. That night, a dinosaur-like creature, Godzilla, attacks. Shikishima gets in his plane but cannot bring himself to shoot the monster and is knocked unconscious. He wakes up to learn that Tachibana is the only other survivor, who blames Shikishima for failing to act.\n\nIn 1946, Shikishima returns home to find his parents were killed in the bombing of Tokyo. Plagued by survivor's guilt, he works as a minesweeper and begins supporting a woman, Noriko Ōishi, whose parents also died in the bombing, and an orphaned baby, Akiko, whom Noriko rescued.\n\nLater that year, Godzilla is mutated and enlarged by the United States' nuclear tests at Bikini Atoll; it destroys several U.S. warships before heading for Japan. The U.S. refuses help, owing to tensions with the Soviet Union, but General Douglas MacArthur sends decommissioned Imperial Japanese Navy vessels.\n\nIn May 1947, Shikishima and his minesweeper crew are tasked with stopping Godzilla's approach to Japan, in reality stalling for time for larger vessels to arrive. They release a mine into Godzilla's mouth and detonate it, doing significant damage, but it quickly regenerates. The heavy cruiser Takao then arrives and engages Godzilla, but is subsequently destroyed when Godzilla unleashes its atomic \"heat ray.\"\n\nAfter returning to Tokyo, Shikishima tells Noriko about the attack and his earlier encounter with Godzilla. Days later, Godzilla makes landfall in Japan, attacking Ginza, where Noriko works. Noriko narrowly avoids dying and is found by Shikishima. Type 4 Chi-To medium tanks engage Godzilla, but it fires its heat ray which causes a nuclear explosion that obliterates Ginza, killing tens of thousands. Noriko pushes Shikishima into an alley but is caught in the blast herself and presumed dead. Devastated by the loss of Noriko, Shikishima vows revenge against Godzilla.\n\nGodzilla departs, but is expected to return; the government refuses to do more to prevent another attack. One of the minesweeper's crew, former Naval engineer Kenji Noda plans to destroy Godzilla by surrounding it with Freon tanks and rupturing them, lowering the water's buoyancy and sinking it to a depth of 1,500 meters, letting the resultant pressure crush it. Should that plan fail, balloons will be inflated under Godzilla to force it back up to the surface, killing it through explosive decompression. He has recruited private citizens, mostly former Naval members, to enact his plan. Shikishima recruits Tachibana, the mechanic he fought alongside, to repair a broken-down Kyushu J7W Shinden fighter. Shikishima plans to fly into Godzilla's mouth, then detonate an explosive charge inside the plane in an attempt to destroy the monster from the inside. He leaves Akiko in the care of his neighbor Sumiko.\n\nGodzilla resurfaces, and Shikishima draws it into the trap. After Godzilla is tricked into destroying two unmanned destroyers with its heat ray, the two remaining ships get close and wrap it in the buoys. Godzilla is then successfully dragged down to 1,500 meters but survives. The balloons are activated, forcing Godzilla up to 800 meters, but it survives and manages to break free. Two ships try to haul Godzilla to the surface but fail. A fleet of tugboats lend their assistance and Godzilla is brought to the surface. Still alive and enraged, Godzilla prepares to destroy all the ships with its heat ray. Shikishima flies the explosive plane into Godzilla's mouth and remembers Tachibana imploring him to use the ejection seat, to let go of his survivor's guilt and choose to live. The plane explodes, destroying Godzilla's head and causing the energy of its heat ray to tear its body apart. The crew celebrates as Shikishima parachutes down, having chosen to live.\n\nShikishima receives a telegram and heads to the hospital with Akiko. They are reunited with Noriko, who survived the destruction, but has a black mark creeping up her neck. Meanwhile, a chunk of Godzilla's flesh sinks into the ocean and begins to regenerate.",
+  "questions": [
+    {
+      "question": "Where does Godzilla first attack?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Godzilla first attacks at Odo Island."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Godzilla first attacks at Odo Island."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "Godzilla first attacks at Odo Island."
+        }
+      ]
+    },
+    {
+      "question": "Name the characters involved in the defense against Godzilla.",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Kōichi Shikishima, Tachibana, and Kenji Noda defended against Godzilla."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": null
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "Kōichi Shikishima, Tachibana, and Kenji Noda defended against Godzilla."
+        }
+      ]
+    },
+    {
+      "question": "What was the first method discovered to injure Godzilla?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "An explosive mine can injure Godzilla."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "An explosive mine can injure Godzilla."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "An explosive mine can injure Godzilla."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": null
+        }
+      ]
+    },
+    {
+      "question": "How does Godzilla cause nuclear explosions?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Godzilla causes nuclear explosions using his \"heat ray\"."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "Godzilla causes nuclear explosions using his \"heat ray\"."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Godzilla causes nuclear explosions using his \"heat ray\"."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "Godzilla causes nuclear explosions using his \"heat ray\"."
+        }
+      ]
+    },
+    {
+      "question": "Approximately how many people did Godzilla kill during his attack on Ginza?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Godzilla killed tens of thousands of people during his attack on Ginza."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Godzilla killed tens of thousands of people during his attack on Ginza."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": null
+        }
+      ]
+    }
+  ]
+}

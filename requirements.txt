@@ -1,0 +1,15 @@
+accelerate
+datasets>=2.14.0
+deepspeed  # Only used for locking dependencies
+evaluate
+openai
+protobuf
+pydantic-settings
+scikit-learn
+sentencepiece
+tensorboard
+tiktoken
+torch>=1.3
+tqdm
+transformers>=4.41.0  # Needed for llama3 support
+wheel  # Needed to build deepspeed

@@ -1,0 +1,112 @@
+{
+  "title": "Mission: Impossible – Dead Reckoning Part One",
+  "source": "https://en.wikipedia.org/w/index.php?title=Mission:_Impossible_%E2%80%93_Dead_Reckoning_Part_One&oldid=1190689810#Plot",
+  "summary": "A next-generation Russian submarine Sevastopol employs an advanced AI, activated by a two-pieced cruciform key. The AI deceives the crew into attacking a phantom target only to be struck by their own torpedo, killing all aboard. IMF agent Ethan Hunt travels to the Empty Quarter of the Arabian Desert to retrieve one-half of the key from disavowed MI6 agent Ilsa Faust, who carries a bounty from an unknown source. Ethan retrieves the half-key and fakes Ilsa's death. Back in Washington, D.C., Ethan infiltrates a U.S. Intelligence Community briefing for Director of National Intelligence Denlinger to discuss the rogue AI. Director Eugene Kittridge recounts how the \"Entity\" has achieved sentience and can manipulate major defense intelligence and financial networks of the world at will. World powers compete to obtain the key to control the Entity, though the exact means of controlling it are unknown.\n\nRevealing himself and exposing Kittridge's bounty on Ilsa, Ethan states his intention to destroy the Entity. Ethan and his IMF teammates Benji Dunn and Luther Stickell travel to Abu Dhabi International Airport to intercept the holder of the other half-key despite knowing they will be racing against all world powers. Ethan evades US agents in pursuit of the holder, but the half-key is stolen by a professional thief named Grace. Concurrently, Luther and Benji disarm a hoax nuclear device. Ethan suspects foul play after seeing Gabriel, a sadistic Entity liaison with ties to Ethan's pre-IMF past. Aborting the mission, the team scatters and Grace escapes to Rome. Grace is apprehended upon arrival, where she is rescued by Ethan from local authorities, US Agents and an Entity operative named Paris. Grace again escapes, but Ethan rendezvous with Luther and Benji and Ilsa rejoins them. With Benji and Luther providing support, Ethan and Ilsa follow Grace to Venice where they infiltrate a party held by the arms dealer Alanna Mitsopolis.\n\nWith the party masquerading as a brokerage set up by the Entity, all groups disclose their role in acquiring the complete key. Grace had been hired by Alanna to steal one half to combine with the other, which will be sold to her buyer the next day on the Orient Express. Through the Entity, Gabriel proclaims that he will possess the key the following day regardless of any outcome and that it has also determined either Ilsa or Grace will die. Ethan unsuccessfully attempts to dissuade Alanna from the sale, allowing Gabriel and Grace to walk free. Ethan pursues Grace, but the Entity impersonates Benji and leads him into a fight with Paris, whom he subdues and spares. Gabriel incapacitates Grace and kills Ilsa, devastating Ethan. A remorseful Grace agrees to impersonate Alanna and take back the key during the sale. Luther leaves for an off-grid location to investigate the traces of the Entity in his hard drive, reminding Ethan to spare Gabriel for information despite his declaration of vengeance for Ilsa's death. On the train, Gabriel kills the engine crew and destroys the throttle and brake. With Paris, Gabriel meets Denlinger, who divulges information only he knows in an attempt to form an alliance between himself and the Entity.\n\nOriginally an advanced cyber weapon developed by the United States, the Entity \"overperformed\" when it infiltrated the Sevastopol and subsequently went rogue. The complete key unlocks a chamber inside the vessel which contains the Entity's source code, allowing it to be destroyed or controlled. Gabriel nevertheless kills Denlinger and attempts to kill Paris, who the Entity has determined will betray them after Ethan spared her life in Venice. Impersonating Alanna, Grace brings the key to the buyer, who is revealed to be Kittridge. She negotiates a $100 million sale and protection for herself, but after deciding against it pickpockets the key from Kittridge. Ethan parachutes onto the train to save Grace from her pursuers, but Gabriel acquires the key. Ethan battles Gabriel atop the train, but Gabriel escapes and detonates a bridge ahead. Grace and Ethan detach the locomotive from the rest of the train, saving the passengers. Paris rescues both from falling, telling Ethan the key's connection to the Sevastopol. Grace informs Kittridge of her desire to join the IMF. Ethan flees the wreckage by paraglider with the complete key, which he had taken during his fight with Gabriel, and rendezvous with Benji to continue the mission.",
+  "questions": [
+    {
+      "question": "Who employed the person who killed Ilsa?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "The Entity employed Gabriel, who killed Ilsa."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "The Entity employed the person who killed her."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "The Entity employed Gabriel, who killed Ilsa."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": null
+        }
+      ]
+    },
+    {
+      "question": "Where does Ethan obtain the key from Gabriel?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Ethan obtained the key from Gabriel on top of the Orient Express."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Ethan obtained the key from Gabriel on top of the Orient Express."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "Ethan obtained the key from Gabriel on top of the Orient Express."
+        }
+      ]
+    },
+    {
+      "question": "Who does Gabriel kill on the train?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Gabriel killed the engine crew and Denlinger on the train."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Gabriel killed the engine crew and Denlinger on the train."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": null
+        }
+      ]
+    },
+    {
+      "question": "Where is the source code for the Entity stored?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "The source code for the Entity stored in a chamber on the Russian submarine Sevastopol."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "The source code for the Entity stored in a chamber on the Russian submarine Sevastopol."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "The source code for the Entity stored in a chamber on the Russian submarine Sevastopol."
+        }
+      ]
+    },
+    {
+      "question": "Where was the hoax nuclear device disarmed?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "The hoax nuclear device disarmed at the Abu Dhabi International Airport."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "The hoax nuclear device disarmed at the Abu Dhabi International Airport."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "The hoax nuclear device disarmed at the Abu Dhabi International Airport."
+        }
+      ]
+    }
+  ]
+}

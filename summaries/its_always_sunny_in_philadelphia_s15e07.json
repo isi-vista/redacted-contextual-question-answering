@@ -1,0 +1,112 @@
+{
+  "title": "It's Always Sunny in Philadelphia S15E07 - The Gang Goes Bowling",
+  "source": "https://en.wikipedia.org/w/index.php?title=The_Gang_Goes_Bowling&oldid=1188924155#Plot",
+  "summary": "Dee asks Dennis for money, despite not working through the day. When the Gang questions her about her motives, she finally reveals that she is going out bowling with some friends of hers. After she leaves, the rest of the Gang declares they would not waste their time going bowling.\n\nAt the bowling alley, Dee meets with her team, which consists of The Waitress, Artemis, and Gail the Snail. They did not want Dee on their team, but their fourth required member dropped out. Suddenly, Charlie, Dennis, Mac, and Frank arrive, intending to fend off the girls in a girls vs boys league. They visit the alley owners, which are revealed to be Liam and Ryan McPoyle, who bought the place after a financial turmoil. After paying a fee, they allow them to play in the league.\n\nThe first round starts with the boys all achieving strikes, while the girls struggle in competing. After Dennis mocks the girls, Dee decides to employ a new strategy, which will involve manipulating the boys for their stupidity. This gets them to almost match their score in the following rounds. When Dennis mocks Dee again, The Waitress challenges him to an arcade game to prove his test of strength by punching a ball. The Waitress delivers a kick that gives her points, but Dennis' punch hits the limit of the score, earning him the win. However, the punch was strong enough to break his bones and cannot bowl on the final game against Dee. He convinces Liam to bowl for him, while Dee gets Ryan to bowl for her team. During his turn, Liam cannot see the pins due to his blurred vision and accidentally hits Ryan's hand with a ball, causing both to drop out and Dennis and Dee having to play. Dee finally overcomes her mockery and manages to strike one pin, winning. However, she notes that everyone left and The Waitress admits she is not interested in their win as she doesn't care about women's sports.",
+  "questions": [
+    {
+      "question": "How does the Waitress get Dennis out of the game?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "The Waitress challenges Dennis to a test of strength by punching a ball, which results in Dennis breaking his hand."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "His hand is broken."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "The Waitress challenges Dennis to a test of strength by punching a ball, which results in Dennis breaking his hand."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": null
+        }
+      ]
+    },
+    {
+      "question": "How many players are on each bowling team?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "The teams consist of four players each."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "The teams consist of four players each."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "The teams consist of four players each."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "The teams consist of four players each."
+        }
+      ]
+    },
+    {
+      "question": "Who knocks down the winning pin?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Dee knocks down the winning pin."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Dee knocks down the winning pin."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "Dee knocks down the winning pin."
+        }
+      ]
+    },
+    {
+      "question": "What score does the boys team achieve in the first round?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "They achieve all strikes."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "They achieve all strikes."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "They achieve all strikes."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "They achieve all strikes."
+        }
+      ]
+    },
+    {
+      "question": "Does the rest of the girls team want Dee on the team?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "No, they don't have any choice as it's a four player league."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "No, they don't have any choice as it's a four player league."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "No, they don't have any choice as it's a four player league."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "No, they don't have any choice as it's a four player league."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "title": "The Marvels",
+  "source": "https://en.wikipedia.org/w/index.php?title=The_Marvels&oldid=1190065985#Plot",
+  "summary": "Carol Danvers destroys the Supreme Intelligence, the artificial intelligence that leads the Kree empire. This leads to a civil war and the desolation of the Kree home world, Hala, over the next 30 years. The conflict renders the planet barren as it loses its air, water, and sunlight.\n\nDar-Benn, the new leader of the Kree, discovers one of the two legendary Quantum Bands. She harnesses the power of the Band to tear open a jump point, a gateway that allows fast travel across space. The resulting anomaly impacts the entire jump point network, including a jump point near Earth's S.A.B.E.R. space station that is run by Nick Fury. Captain Monica Rambeau investigates the jump point near S.A.B.E.R. while Danvers investigates the new jump point that Dar-Benn opened. When they touch their respective jump points, Rambeau is transported to Danvers' location, Kamala Khan—who has the other Quantum Band on Earth—is transported to Rambeau's location, and Danvers is transported to Kamala's house. The three use their different light-based powers to fight off Kree enemies, leaving the Khan family home destroyed.\n\nAfter the three women return to their original places, Fury and Rambeau visit Kamala on Earth. Rambeau surmises that their light-based powers are linked through quantum entanglement, and that they switch places when any of the three use their powers simultaneously.\n\nThe three join up at a Skrull refugee colony on the planet Tarnax, which Danvers helped found and where a peace treaty is being negotiated with the Kree. When talks break down, Dar-Benn rips open another jump point which siphons the atmosphere from Tarnax to restore breathable air to Hala. After a hasty effort to evacuate the colony, Danvers, Rambeau, and Kamala form a team that Kamala names \"the Marvels\". Danvers explains that the Quantum Bands were used to create the jump point transportation network, and Dar-Benn is combining her Quantum Band with the Kree's Universal Weapon. Dar-Benn's repeated rupturing of jump points is causing instability to the network and endangering the entire universe. They deduce that Dar-Benn is targeting planets that are meaningful to Danvers, who Dar-Benn blames for the desolation of Hala.\n\nThe Marvels reach the water planet Aladna before Dar-Benn does and prepare the local population for an attack. Dar-Benn arrives and tears open a jump point to draw the planet's water to Hala. She almost steals Kamala's Quantum Band, forcing Kamala to flee with Danvers and Rambeau. Dar-Benn's final plan is to use the energy from Earth's sun to restore that of Hala. The Marvels fight and subdue Dar-Benn, but she steals Kamala's Band and uses both bangles to tear open another hole in space. The act destroys Dar-Benn, ends the Marvels' entanglement, and leaves behind a rupture between realities. After Kamala reclaims the Bands, she and Danvers use their combined powers to energize Rambeau, allowing her to close the hole from the other side, stranding her in the process. Kamala returns to Earth and Danvers flies into Hala's sun, using her power to restore it.\n\nThe short-lived team-up inspires Kamala to seek out other young heroes and form a new group, starting with Kate Bishop. In a mid-credits scene, Rambeau awakes in a parallel universe where she is greeted by Binary—an alternate version of her mother Maria—and the mutant scientist Hank McCoy.",
+  "questions": [
+    {
+      "question": "Who dies while tearing a hole in spacetime?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Dar-Benn dies tearing a hole in spacetime."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Dar-Benn dies tearing a hole in spacetime."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": null
+        }
+      ]
+    },
+    {
+      "question": "Who are the members of the Marvels?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "The Marvels consists of Carol Danvers, Monica Rambeau, and Kamala Khan."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": null
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "The Marvels consists of Carol Danvers, Monica Rambeau, and Kamala Khan."
+        }
+      ]
+    },
+    {
+      "question": "What is the first planet that Dar-Benn attacks?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Dar-Benn first attacks Tarnax."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Dar-Benn first attacks Tarnax."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "Dar-Benn first attacks Tarnax."
+        }
+      ]
+    },
+    {
+      "question": "What planets are meaningful to Carol?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Tarnax, Aladna, and Earth are meaningful to Carol."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Tarnax, Aladna, and Earth are meaningful to Carol."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "Tarnax, Aladna, and Earth are meaningful to Carol."
+        }
+      ]
+    },
+    {
+      "question": "Who did the Skrulls fight a war against?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "The Skrulls fought against the Kree empire."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "The Skrulls fought against the Kree empire."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "The Skrulls fought against the Kree empire."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "The Skrulls fought against the Kree empire."
+        }
+      ]
+    }
+  ]
+}

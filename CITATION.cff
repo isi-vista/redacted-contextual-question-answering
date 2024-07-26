@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: Redacted Contextual Question Answering
+abstract: Data for a new question answering task, along with associated code
+type: dataset
+repository-code: https://github.com/isi-vista/redacted-contextual-question-answering
+# Semantics are "AND" instead of "OR" but the `CITATION.cff` specification
+# does not the support the full SPDX license grammar.
+# See the "License" section of the README for more detailed information.
+license:
+  - Apache-2.0
+  - CC-BY-4.0
+  - CC-BY-SA-4.0
+  - MIT
+license-url: https://github.com/isi-vista/redacted-contextual-question-answering/blob/main/README.md#license
+message: If you use this dataset or software, please cite the paper from `preferred-citation` (TBD).
+authors:
+  - given-names: Jacob
+    family-names: Lichtefeld
+    affiliation: USC Information Sciences Institute
+  - given-names: Joe A.
+    family-names: Cecil
+    affiliation: USC Information Sciences Institute
+  - given-names: Alex
+    family-names: Hedges
+    affiliation: USC Information Sciences Institute
+  - given-names: Jeremy
+    family-names: Abramson
+    affiliation: USC Information Sciences Institute
+  - given-names: Marjorie
+    family-names: Freedman
+    affiliation: USC Information Sciences Institute
+# TODO: Add citation once paper is published

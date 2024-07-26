@@ -1,0 +1,112 @@
+{
+  "title": "Loki S02E01 - Ouroboros",
+  "source": "https://en.wikipedia.org/w/index.php?title=Ouroboros_(Loki)&oldid=1189339869#Plot",
+  "summary": "After Loki was sent through a time door by Sylvie at the Citadel at the End of Time, he is returned to the Time Variance Authority (TVA) headquarters, where he starts uncontrollably warping across time at the same location. Loki initially arrives in the past, where TVA employees do not know him and attempt to apprehend him. Later in the past, Loki discovers a recording of the TVA's creator, He Who Remains, praising the TVA's Ravonna Renslayer for working with him.\n\nIn the present, the TVA is in disarray due to the rapid branching of the Sacred Timeline, caused by Sylvie's killing of He Who Remains. Renslayer's absence leads to Judge Gamble and General Dox assuming leadership positions. Hunter B-15 and Mobius convince Gamble and Dox that TVA employees are all variants taken from branched timelines; Gamble is persuaded to order the TVA to stop eliminating branched timelines. Loki warps into the meeting and exposes He Who Remains' role as the mastermind behind the TVA. Loki warns Mobius of the threat of the many variants of He Who Remains. Dox has many TVA hunters heavily arm themselves for a supposed mission to find Sylvie.\n\nTo stop Loki's warping, Loki and Mobius meet TVA technician Ouroboros, who has been working alone for centuries. Ouroboros deduces that Loki is \"time slipping\", suggesting that it is caused by the timeline branches dangerously overloading the TVA's Temporal Loom. Ouroboros instructs Mobius to approach the Temporal Loom with the Temporal Aura Extractor device to extract Loki from the time stream as Loki \"prunes\" himself, which would release him from time.\n\nLoki time slips to the future, where the TVA is being evacuated as the Loom goes critical. He tries to find a Timestick to prune himself, briefly encounters Sylvie, and is pruned from behind by someone at the last possible second. In the present, Ouroboros starts sealing off the Temporal Loom to protect the TVA, despite Mobius' protests to wait for Loki. Mobius successfully pulls Loki from the time stream, and the two tumble back into safety from the Temporal Loom, which becomes sealed off. Loki and Mobius set out to find Sylvie.\n\nIn a mid-credit scene, Sylvie enters a branched timeline in Broxton, Oklahoma in 1982, and visits a McDonald's restaurant.",
+  "questions": [
+    {
+      "question": "Where does Sylvie appear in a mid-credit scene?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Sylvia appears in Broxton, Oklahoma in 1982 at a McDonalds."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Sylvia appears in Broxton, Oklahoma in 1982 at a McDonalds."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "Sylvia appears in Broxton, Oklahoma in 1982 at a McDonalds."
+        }
+      ]
+    },
+    {
+      "question": "What item is Loki looking for in the future?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Loki is looking for a Timestick."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "He is looking for a Timestick."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Loki is looking for a Timestick."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "Loki is looking for a Timestick."
+        }
+      ]
+    },
+    {
+      "question": "Who helps solve Loki's timeslipping?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "The TVA technician Ouroboros and Mobius help solve Loki's timeslipping, and in the future, a mysterious individual prunes Loki at the last second."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "A TVA technician and Mobius help solve Loki's timeslipping."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "The TVA technician Ouroboros and Mobius help solve Loki's timeslipping."
+        }
+      ]
+    },
+    {
+      "question": "Why is the sacred timeline branching out of control?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "The sacred timeline is branching out of control because Sylvie killed He Who Remains."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "The sacred timeline is branching out of control because Sylvie killed He Who Remains."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": null
+        }
+      ]
+    },
+    {
+      "question": "Judge Gamble orders to TVA to do what?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Judge Gamble is persuaded to order the TVA to stop eliminating branched timelines."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "The judge is persuaded to order the TVA to stop eliminating branched timelines."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Judge Gamble is persuaded to order the TVA to stop eliminating branched timelines."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": null
+        }
+      ]
+    }
+  ]
+}

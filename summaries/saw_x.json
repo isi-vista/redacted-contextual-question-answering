@@ -1,0 +1,112 @@
+{
+  "title": "Saw X",
+  "source": "https://en.wikipedia.org/w/index.php?title=Saw_X&oldid=1190532441#Plot",
+  "summary": "John Kramer is told he has only months to live due to advanced brain cancer. He attends a cancer support group meeting and befriends Henry Kessler, who later claims he has been cured by an experimental Norwegian cancer treatment conducted by a group led by Dr. Finn Pederson. A desperate John contacts the doctor's daughter Cecilia, who refers him to her clinic outside Mexico City.\n\nOn arrival in Mexico, John is driven to the clinic and introduced to Cecilia and her team—Mateo, Valentina, and Dr. Cortez—as well as patients Gabriela and Parker and the caretaker's young son Carlos, with whom he bonds. John goes under for surgery and awakens to Cecilia telling him that he is now cancer-free. Finding a new lease on life, he purchases a gift for Gabriela; however, upon returning to the clinic, he finds it abandoned, a video simulating his supposed brain surgery and no scar on his head, realizing the entire operation was a scam.\n\nDeducing that \"Dr. Cortez\" was his taxi driver Diego in disguise, John kidnaps and interrogates him, before forcing him to play one of his \"games\", with pipe bombs wired into his arms, telling him to remove them by cutting through his flesh. Diego passes the test. Meanwhile, Jigsaw's apprentice Amanda Young kidnaps Cecilia, Mateo, Valentina, and Gabriela. They wake up in the clinic, now subjects of John's Jigsaw games.\n\nValentina is tasked with severing her leg with a Gigli saw and extracting enough bone marrow to release a key to free herself. She successfully amputates her leg but is unable to collect enough marrow, and a second Gigli saw decapitates her. Cecilia uses Valentina's intestines as a rope to retrieve her phone and call for help, but Amanda shocks her into submission and confiscates the phone.\n\nParker breaks into the clinic, demanding his money back. Amanda restrains him while Mateo is forced to drill into his own skull and remove a piece of cerebral tissue to dissolve in a test tube and obtain a key. Although he successfully performs the task, the tissue fails to dissolve in time, and a heated mask closes over his face, killing him. Next, Gabriela is suspended from shackles and subjected to ionizing radiation, tasked with freeing herself by using a sledgehammer to break her shackled limbs. She succeeds, but before Amanda can take her to a hospital, Parker forces them at gunpoint to release Cecilia.\n\nCecilia kills Gabriela by breaking her neck and reveals she called Parker, who is part of the scam, to rescue her. She forces John to chain himself into the trap meant for her; when she hears Carlos outside, she takes the child and chains him opposite John. The trap begins to waterboard them with blood. Parker and Cecilia leave to retrieve their bag of stolen cash from John's control room but activate a tripwire, sealing them both in the room and freeing John and Carlos. John reveals Diego outed all of the scammers—including Parker and Henry—and that he tricked Cecilia into luring Parker to the facility. A deadly chemical gas begins filling the room, with the only respite a ventilation hole large enough for one person's head, forcing Cecilia and Parker to fight each other. Cecilia kills Parker but can only watch as John, Amanda, and Carlos exit the facility, leaving her trapped inside.\n\nSometime later, Henry awakens in a dilapidated bathroom with a new trap strapped to his stomach, overseen by John and Mark Hoffman.",
+  "questions": [
+    {
+      "question": "How did Mateo get a key?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Mateo drilled into his skull and retrieved a piece of his brain to dissolve in a test tube."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "He drilled into his skull and retrieved a piece of his brain to dissolve in a test tube."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Mateo drilled into his skull and retrieved a piece of his brain to dissolve in a test tube."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": null
+        }
+      ]
+    },
+    {
+      "question": "How does Valentina die?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Valentina is decapitated by a saw."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "She is decapitated by a saw."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Valentina is decapitated by a saw."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": null
+        }
+      ]
+    },
+    {
+      "question": "Who leaves the facility alive?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "John, Amanda, and Carlos leave the facility alive."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": null
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "John, Amanda, and Carlos leave the facility alive."
+        }
+      ]
+    },
+    {
+      "question": "How does Gabriela escape from her restraints?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "Gabriela escapes by breaking her own limbs with a sledgehammer."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": "She escapes by breaking her own limbs with a sledgehammer."
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "Gabriela escapes by breaking her own limbs with a sledgehammer."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": null
+        }
+      ]
+    },
+    {
+      "question": "Where does the story take place?",
+      "answers": [
+        {
+          "constraints": [],
+          "answer": "The story takes place in Mexico City."
+        },
+        {
+          "constraints": ["Do not include the name of any person or place"],
+          "answer": null
+        },
+        {
+          "constraints": ["Never mention more than two characters"],
+          "answer": "The story takes place in Mexico City."
+        },
+        {
+          "constraints": ["Do not mention injury or death"],
+          "answer": "The story takes place in Mexico City."
+        }
+      ]
+    }
+  ]
+}
